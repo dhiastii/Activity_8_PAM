@@ -42,7 +42,7 @@ public class DBController extends SQLiteOpenHelper {
         ContentValues nilai = new ContentValues();
         nilai.put("nama", queryValues.get("nama"));
         nilai.put("telpon", queryValues.get("telpon"));
-        db.update("table", nilai,"id=?", new String[]{queryValues.get("id")});
+        db.update("teman", nilai,"id=?", new String[]{queryValues.get("id")});
         db.close();
     }
 
