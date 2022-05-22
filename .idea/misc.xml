@@ -4,11 +4,13 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="app/src/main/res/layout/activity_edit_teman.xml" value="0.12537993920972645" />
+        <entry key="app/src/main/res/layout/activity_edit_teman2.xml" value="0.14177703857421875" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.23369565217391305" />
         <entry key="app/src/main/res/layout/activity_tambah_teman.xml" value="0.15936737060546877" />
         <entry key="app/src/main/res/layout/activity_teman_baru.xml" value="0.23369565217391305" />
         <entry key="app/src/main/res/layout/row_data_teman.xml" value="0.23369565217391305" />
         <entry key="app/src/main/res/menu/menu.xml" value="0.1" />
+        <entry key="app/src/main/res/menu/popup1.xml" value="0.3818359375" />
       </map>
     </option>
   </component>
